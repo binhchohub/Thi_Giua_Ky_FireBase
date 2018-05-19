@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66186731324",
+    "firebase_url": "https://fir-demo-61c76.firebaseio.com",
+    "project_id": "fir-demo-61c76",
+    "storage_bucket": "fir-demo-61c76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66186731324:android:9c3b395e28d43d0a",
+        "android_client_info": {
+          "package_name": "com.example.hoang.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66186731324-ci30faajqfbqm0dp18gmppg65lbsp3ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIueXfyzIZ3O03Ql4KFCc3f3DCR8NDHFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
